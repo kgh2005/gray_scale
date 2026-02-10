@@ -1,0 +1,7 @@
+*.pt
+*.mkv
+**/__pycache__
+.vscode
+/log
+/images/**
+/images_gray/**
